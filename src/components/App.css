@@ -1,0 +1,11 @@
+.rowthem{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.leftcon input{
+
+    margin: 10px;
+    
+}

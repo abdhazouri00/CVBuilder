@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+/src/assets/scss
+/src/assets/plugins
+/src/assets/fontawesome
+
 # testing
 /coverage
 
